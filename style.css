@@ -1,0 +1,42 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: white;
+}
+h2{
+    font-size: 35px;
+    padding: 15px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
+h4{
+    color: white;
+}
+.conteiner-corpo{
+    background-image: linear-gradient(to bottom right, rgb(27, 31, 255), rgb(0, 255, 136));
+    height: 550px;
+   border-radius: 0px 0px 30px 30px ;
+}
+.conteiner{
+    display: flex;
+   justify-content: space-around;
+  
+}
+
+.img-top{
+    width: 430px;
+    height: 430px;
+   margin-top: 65px;
+   margin-left: 35px;
+}
+.conteiner2{
+    display: flex;
+   justify-content: space-around;
+ 
+}
+
